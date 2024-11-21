@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|c:\\users\\amaru_2023\\desktop\\visual studio\\edustats\\estructuras\\personalbibliotecario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|solutionrelative:estructuras\\personalbibliotecario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\estructuras\\mesesinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|solutionrelative:estructuras\\mesesinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\estructuras\\horasinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|solutionrelative:estructuras\\horasinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\estructuras\\generoinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|solutionrelative:estructuras\\generoinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\estructuras\\carrerasinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|solutionrelative:estructuras\\carrerasinformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\formularios\\opcionesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|solutionrelative:formularios\\opcionesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\formularios\\opcionesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|solutionrelative:formularios\\opcionesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\formularios\\olvidarfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|solutionrelative:formularios\\olvidarfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9142F32F-69D8-4701-8225-66B28A0601D7}|EduStats.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpcionesFrm.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Formularios\\OpcionesFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\OpcionesFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Formularios\\OpcionesFrm.cs",
+              "RelativeToolTip": "Formularios\\OpcionesFrm.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAMwCcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:45:42.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MesesInformacion.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Estructuras\\MesesInformacion.cs",
+              "RelativeDocumentMoniker": "Estructuras\\MesesInformacion.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Estructuras\\MesesInformacion.cs",
+              "RelativeToolTip": "Estructuras\\MesesInformacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:40:59.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:12:49.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIAwwCIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:52:20.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarrerasInformacion.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Estructuras\\CarrerasInformacion.cs",
+              "RelativeDocumentMoniker": "Estructuras\\CarrerasInformacion.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Estructuras\\CarrerasInformacion.cs",
+              "RelativeToolTip": "Estructuras\\CarrerasInformacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:22:11.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonalBibliotecario.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Estructuras\\PersonalBibliotecario.cs",
+              "RelativeDocumentMoniker": "Estructuras\\PersonalBibliotecario.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Estructuras\\PersonalBibliotecario.cs",
+              "RelativeToolTip": "Estructuras\\PersonalBibliotecario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:16:08.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneroInformacion.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Estructuras\\GeneroInformacion.cs",
+              "RelativeDocumentMoniker": "Estructuras\\GeneroInformacion.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Estructuras\\GeneroInformacion.cs",
+              "RelativeToolTip": "Estructuras\\GeneroInformacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:18:21.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HorasInformacion.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Estructuras\\HorasInformacion.cs",
+              "RelativeDocumentMoniker": "Estructuras\\HorasInformacion.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Estructuras\\HorasInformacion.cs",
+              "RelativeToolTip": "Estructuras\\HorasInformacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:20:11.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAnwD0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:53:01.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OlvidarFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Formularios\\OlvidarFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\OlvidarFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Formularios\\OlvidarFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\OlvidarFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:05:34.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OpcionesFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Formularios\\OpcionesFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\OpcionesFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Formularios\\OpcionesFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\OpcionesFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T05:06:01.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStats\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:53:11.116Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

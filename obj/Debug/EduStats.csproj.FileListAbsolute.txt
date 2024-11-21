@@ -1,0 +1,12 @@
+C:\Users\Amaru_2023\Desktop\Visual Studio\EduStats\bin\Debug\EduStats.exe.config
+C:\Users\Amaru_2023\Desktop\Visual Studio\EduStats\bin\Debug\EduStats.exe
+C:\Users\Amaru_2023\Desktop\Visual Studio\EduStats\bin\Debug\EduStats.pdb
+C:\Users\Amaru_2023\Desktop\Visual Studio\EduStats\obj\Debug\EduStats.csproj.AssemblyReference.cache
+C:\Users\Amaru_2023\Desktop\Visual Studio\EduStats\obj\Debug\EduStats.Form1.resources
+C:\Users\Amaru_2023\Desktop\Visual Studio\EduStats\obj\Debug\EduStats.Properties.Resources.resources
+C:\Users\Amaru_2023\Desktop\Visual Studio\EduStats\obj\Debug\EduStats.csproj.GenerateResource.cache
+C:\Users\Amaru_2023\Desktop\Visual Studio\EduStats\obj\Debug\EduStats.csproj.CoreCompileInputs.cache
+C:\Users\Amaru_2023\Desktop\Visual Studio\EduStats\obj\Debug\EduStats.exe
+C:\Users\Amaru_2023\Desktop\Visual Studio\EduStats\obj\Debug\EduStats.pdb
+C:\Users\Amaru_2023\Desktop\Visual Studio\EduStats\obj\Debug\EduStats.Formularios.OlvidarFrm.resources
+C:\Users\Amaru_2023\Desktop\Visual Studio\EduStats\obj\Debug\EduStats.Formularios.OpcionesFrm.resources
