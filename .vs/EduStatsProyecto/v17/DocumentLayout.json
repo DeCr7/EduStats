@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|c:\\users\\amaru_2023\\desktop\\visual studio\\edustatsproyecto\\reportes\\rptedustats.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:reportes\\rptedustats.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\formularios\\introducciondatosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:formularios\\introducciondatosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\formularios\\introducciondatosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:formularios\\introducciondatosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\formularios\\graficosdatosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:formularios\\graficosdatosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\formularios\\graficosdatosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:formularios\\graficosdatosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\clases\\edustatsclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:clases\\edustatsclases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\reportes\\vistapreviafrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:reportes\\vistapreviafrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\reportes\\vistapreviafrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:reportes\\vistapreviafrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\dataset\\dsdatos.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:dataset\\dsdatos.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\dataset\\dsdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:dataset\\dsdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\reportes\\vistapreviafrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:reportes\\vistapreviafrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\formularios\\usuariosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:formularios\\usuariosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\formularios\\usuariosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:formularios\\usuariosfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\formularios\\opcionesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:formularios\\opcionesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\formularios\\opcionesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:formularios\\opcionesfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\formularios\\olvidarfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:formularios\\olvidarfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\formularios\\introducciondatosfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:formularios\\introducciondatosfrm.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\formularios\\olvidarfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8F67B67-B811-4CC3-AD66-8C03AD734AB1}|EduStatsProyecto.csproj|solutionrelative:formularios\\olvidarfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EduStatsClases.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Clases\\EduStatsClases.cs",
+              "RelativeDocumentMoniker": "Clases\\EduStatsClases.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Clases\\EduStatsClases.cs",
+              "RelativeToolTip": "Clases\\EduStatsClases.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T04:15:47.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RptEduStats.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Reportes\\RptEduStats.rdlc",
+              "RelativeDocumentMoniker": "Reportes\\RptEduStats.rdlc",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Reportes\\RptEduStats.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "Reportes\\RptEduStats.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-11-29T14:38:28.553Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntroduccionDatosFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\IntroduccionDatosFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\IntroduccionDatosFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\IntroduccionDatosFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\IntroduccionDatosFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T01:22:27.819Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GraficosDatosFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\GraficosDatosFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\GraficosDatosFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\GraficosDatosFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\GraficosDatosFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:31:15.569Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VistaPreviaFrm.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Reportes\\VistaPreviaFrm.cs",
+              "RelativeDocumentMoniker": "Reportes\\VistaPreviaFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Reportes\\VistaPreviaFrm.cs",
+              "RelativeToolTip": "Reportes\\VistaPreviaFrm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:50:01.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntroduccionDatosFrm.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\IntroduccionDatosFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\IntroduccionDatosFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\IntroduccionDatosFrm.cs",
+              "RelativeToolTip": "Formularios\\IntroduccionDatosFrm.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAIIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:17:47.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VistaPreviaFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Reportes\\VistaPreviaFrm.cs",
+              "RelativeDocumentMoniker": "Reportes\\VistaPreviaFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Reportes\\VistaPreviaFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Reportes\\VistaPreviaFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T04:44:47.973Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GraficosDatosFrm.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\GraficosDatosFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\GraficosDatosFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\GraficosDatosFrm.cs",
+              "RelativeToolTip": "Formularios\\GraficosDatosFrm.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAAAkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:58:11.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dsDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\DataSet\\dsDatos.cs",
+              "RelativeDocumentMoniker": "DataSet\\dsDatos.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\DataSet\\dsDatos.cs",
+              "RelativeToolTip": "DataSet\\dsDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:10:07.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "dsDatos.xsd",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\DataSet\\dsDatos.xsd",
+              "RelativeDocumentMoniker": "DataSet\\dsDatos.xsd",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\DataSet\\dsDatos.xsd",
+              "RelativeToolTip": "DataSet\\dsDatos.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-29T13:48:05.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VistaPreviaFrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Reportes\\VistaPreviaFrm.Designer.cs",
+              "RelativeDocumentMoniker": "Reportes\\VistaPreviaFrm.Designer.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Reportes\\VistaPreviaFrm.Designer.cs",
+              "RelativeToolTip": "Reportes\\VistaPreviaFrm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:45:39.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T19:50:45.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsuariosFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\UsuariosFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\UsuariosFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\UsuariosFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\UsuariosFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:17:37.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T17:53:13.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuariosFrm.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\UsuariosFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\UsuariosFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\UsuariosFrm.cs",
+              "RelativeToolTip": "Formularios\\UsuariosFrm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:41:07.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OpcionesFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\OpcionesFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\OpcionesFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\OpcionesFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\OpcionesFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:21:18.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OpcionesFrm.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\OpcionesFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\OpcionesFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\OpcionesFrm.cs",
+              "RelativeToolTip": "Formularios\\OpcionesFrm.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAewDIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T14:52:13.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OlvidarFrm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\OlvidarFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\OlvidarFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\OlvidarFrm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formularios\\OlvidarFrm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:05:53.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IntroduccionDatosFrm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\IntroduccionDatosFrm.Designer.cs",
+              "RelativeDocumentMoniker": "Formularios\\IntroduccionDatosFrm.Designer.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\IntroduccionDatosFrm.Designer.cs",
+              "RelativeToolTip": "Formularios\\IntroduccionDatosFrm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T18:51:02.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OlvidarFrm.cs",
+              "DocumentMoniker": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\OlvidarFrm.cs",
+              "RelativeDocumentMoniker": "Formularios\\OlvidarFrm.cs",
+              "ToolTip": "C:\\Users\\Amaru_2023\\Desktop\\Visual Studio\\EduStatsProyecto\\Formularios\\OlvidarFrm.cs",
+              "RelativeToolTip": "Formularios\\OlvidarFrm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAwwBcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T15:23:42.383Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

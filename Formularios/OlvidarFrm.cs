@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace EduStatsProyecto.Formularios
+{
+    public partial class OlvidarFrm : Form
+    {
+        public OlvidarFrm()
+        {
+            InitializeComponent();
+        }
+
+        private void btnOlvidarVolver_Click(object sender, EventArgs e)
+        {
+            MenuPrincipalFrm frm = new MenuPrincipalFrm();
+            frm.Show();
+            this.Hide();
+        }
+    }
+}
