@@ -8,7 +8,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 namespace EduStatsProyecto.Properties
+=======
+namespace EduStats.Properties
+>>>>>>> 46364e390b423297e5843e6c407a0adc7c7baf80
 {
 
 
@@ -44,7 +48,11 @@ namespace EduStatsProyecto.Properties
             {
                 if ((resourceMan == null))
                 {
+<<<<<<< HEAD
                     global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("EduStatsProyecto.Properties.Resources", typeof(Resources).Assembly);
+=======
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("EduStats.Properties.Resources", typeof(Resources).Assembly);
+>>>>>>> 46364e390b423297e5843e6c407a0adc7c7baf80
                     resourceMan = temp;
                 }
                 return resourceMan;

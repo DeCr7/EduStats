@@ -8,7 +8,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 namespace EduStatsProyecto.Properties
+=======
+namespace EduStats.Properties
+>>>>>>> 46364e390b423297e5843e6c407a0adc7c7baf80
 {
 
 
